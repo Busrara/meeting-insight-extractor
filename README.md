@@ -18,6 +18,8 @@
 - **Python**: The project is developed in Python using libraries such as `openai`, `whisper`, `regex`, and `dotenv`.
 - **Pandas & Matplotlib**: For data handling and visualization (if needed).
 
+Read my Medium writing for further understanding: https://medium.com/@busraracoban/meeting-insight-extractor-the-ai-powered-solution-to-transform-your-meeting-transcripts-into-189a7410ae99 💡
+
 ## 🔧 Installation
 
 ### 1. Clone the repository:
