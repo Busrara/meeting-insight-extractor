@@ -1,7 +1,5 @@
 # meeting-insight-extractor
 
-# Meeting Insight Extractor
-
 **Meeting Insight Extractor** is an AI-powered assistant designed to transform meeting transcripts, Zoom/Teams calls, or chat conversations into clear action items, summaries, sentiment analysis, and even role-based highlights. By leveraging advanced language models and natural language processing (NLP) techniques, Meeting Insight Extractor helps teams grasp key decisions and tasks efficiently without manually taking down through long transcripts.
 
 ## 🚀 Features
