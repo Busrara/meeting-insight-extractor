@@ -24,6 +24,6 @@ Read my Medium writing for further understanding: https://medium.com/@busraracob
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/busraracoban/meeting-insight-extractor.git
+git clone https://github.com/Busrara/meeting-insight-extractor.git
 
 
